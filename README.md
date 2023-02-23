@@ -1,2 +1,4 @@
 ### DiamondsCode (Josh)
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/563168077123026962?theme=dark&bg=3d3d3d&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Listening%20to%20your%20parents%20fight)](https://discord.com/users/563168077123026962)
+
+[![Github Grade]([https://lanyard-profile-readme.vercel.app/api/563168077123026962?theme=dark&bg=3d3d3d&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Listening%20to%20your%20parents%20fight](https://github-readme-stats.vercel.app/api?username=DiamondsCode&show_icons=true&theme=dark))](https://github.com/DiamondsCode)
