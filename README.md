@@ -13,7 +13,7 @@ i'm a developer living out of the beautiful state of california. i focus a lot o
 
 ## My Skills
 
-[![My Languages](https://skillicons.dev/icons?i=php,javascript,html,css,mysql,tailwindcss,bootstrap,discordjs)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=php,javascript,html,css,MySQL,py,tailwindcss,bootstrap,discordjs,cloudflare,debian,discord,git,linux,MongoDB,nginx,ps,pr,ai,ubuntu,vim,vscode,windows)](https://skillicons.dev)
 
 
 ## Get in Touch
