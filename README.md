@@ -8,7 +8,6 @@ i'm a developer living out of the beautiful state of california. i focus a lot o
 
 - I'm a freelancer that does a lot of things online
 - I do a lot with minecraft servers and am exploring the world of FiveM.
-- I'm a huge weeb and love watching anime and reading manga.
 - Raccoons are not the best animal ever, and thanks for the readme chit
 
 ## My Skills
